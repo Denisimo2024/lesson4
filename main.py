@@ -4,3 +4,5 @@ if a > b:
     print("а больше чем b")
 elif a < b:
     print("b больше чем a")
+else:
+    print("a равно b")
