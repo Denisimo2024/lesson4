@@ -1,5 +1,7 @@
-a = 12 # новая переменная
-b = 7
+for i in  range(9):
+    print("World")
+
+a, b = 7, 11
 if a > b:
     print("а больше чем b")
 elif a < b:
